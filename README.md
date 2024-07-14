@@ -1,1 +1,2 @@
 # OOPs-concept
+Virtual Functions --> Virtual functions are a key feature in C++ that enable runtime polymorphism, allowing derived classes to override base class methods and enabling the appropriate method to be called based on the actual object type at runtime.
